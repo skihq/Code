@@ -1,0 +1,8 @@
+  
+setup:
+  config:
+    PASSWORD: passcdrgit
+
+build:
+  docker:
+    web: Dockerfile
